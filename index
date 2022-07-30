@@ -1,0 +1,31 @@
+<!--comment-->
+<!DOCTYPE html>
+<html>
+<head>
+this is the head
+<!--this s the head-->
+</head>
+
+<body>
+this is the body
+
+<ol>
+<li>first step</li>
+<li> 2nd step</li>
+</ol>
+
+<ul>
+<li>cookie step</li>
+<li> milk step</li>
+</ul>
+
+<p>this <em>word</em> will be in italics
+
+<h1> heading 1</h1>
+<h2> heading 1</h2>
+<h3> heading 1</h3>
+<img src="/home/x/Documents/receipts/20200602 Azharia Watson.jpg" height="300px"/>
+<h4> heading 4</h4>
+
+</body>
+</html>
